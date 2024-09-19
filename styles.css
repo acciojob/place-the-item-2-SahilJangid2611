@@ -3,7 +3,7 @@
         background-color: blue;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-content: space-evenly;
+        justify-content: center;
       }
       .item{
         background-color: red;
